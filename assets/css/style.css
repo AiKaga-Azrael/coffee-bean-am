@@ -31,7 +31,7 @@ p{
 .wrapper{
   width: 100%;
   margin: auto;
-  border: 4px solid red;
+ 
 }
 
 /*(1) Header Area*/
@@ -107,7 +107,6 @@ p{
 }
 /* (3) Ads Area*/
 .ads{
-  border: 2px solid orange;
   width: 80%;
   margin: 4em auto;
   overflow: auto;
@@ -133,7 +132,6 @@ p{
   top: 50%;
   left: 10%;
   width: 60%;
-  border: 2px blueviolet;
   text-align: left;
   position: absolute;
   transform: translateY(-50%);
@@ -156,7 +154,6 @@ p{
 
 /* (4) Merchandise Area */
 .merch{
-  border: 2px solid orange;
   width: 85%;
   margin: 4em auto;
 }
